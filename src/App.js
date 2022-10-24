@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <div>
-        <h2 className="header">AmCharts for Bryan</h2>
+        <h2 className="header">Chart developed using AmCharts and React</h2>
         <hr />
         <Switch>
           <Route exact path="/" component={Skills} />
